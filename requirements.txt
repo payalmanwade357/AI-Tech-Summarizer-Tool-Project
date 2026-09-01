@@ -1,0 +1,6 @@
+streamlit==1.61.1
+transformers==4.48.2
+torch==2.5.1
+PyPDF2==3.0.1
+python-docx==1.2.0
+sentencepiece==0.2.0
